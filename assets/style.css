@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .input{
+    margin: 20px 0px;
+  }
+
+  .for{
+    margin-left: 5px;
+  }
+
+  button{
+    margin: 5px;
+    padding: 5px 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: #576e41;
+    color: white;
+  }
+
